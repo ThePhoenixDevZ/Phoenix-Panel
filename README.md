@@ -10,7 +10,7 @@
 2. Paste This Command #1
 ` curl -sL https://deb.nodesource.com/setup_23.x | sudo bash - `
 
-3.After Pasting Paste This Command #2
+3. After Pasting Paste This Command #2
 `apt-get install nodejs git`
 
 4. go to panel directory:
