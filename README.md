@@ -14,7 +14,7 @@ After Pasting Paste This Command #2
 3. `apt-get install nodejs git`
 
 4. go to panel directory:
-`cd panel`
+`cd PhoenixPanel`
 
 5. Install some importent:
 `apt install zip -y && unzip panel.zip && cd panel`
