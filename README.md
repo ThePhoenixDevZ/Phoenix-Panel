@@ -11,7 +11,7 @@
 ` curl -sL https://deb.nodesource.com/setup_23.x | sudo bash - `
 
 3. After Pasting Paste This Command #2
-`apt-get install nodejs git`
+`apt-get install nodejs git -y`
 
 4. go to panel directory:
 `cd PhoenixPanel`
