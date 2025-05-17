@@ -12,7 +12,7 @@
 `apt-get install nodejs git`
 
 3. go to panel directory:
-`cd v2panel`
+`cd panel`
 
 4. Install some importent:
 `apt install zip -y && unzip panel.zip && cd panel`
@@ -34,7 +34,7 @@ Contributions to enhance the functionality or performance of the DracoPanel are 
 
 - Remaked By ThePhoenixDevZ or Solozip
 
-First i will tell you this is an remaked version soon i will add something new features on it and this is actually madded by DragonLabsDev (https://github.com/dragonlabsdev)
+First i will tell you this is an remaked version soon i will add something new features on it and this is actually madded by DragonLabsDev https://github.com/dragonlabsdev
 
 ## Credits
 SRYDEN
