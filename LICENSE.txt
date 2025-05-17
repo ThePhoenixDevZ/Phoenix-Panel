@@ -2,6 +2,10 @@
 PhoenixDevZ MIT+ License
 Copyright © 2025 Solozip
 
+IMPORTANT
+
+ *First of all this is an remaked version of dragonlabs i just remaked it*
+
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to:
 
 ✅ Use – Run the Software for any purpose.
@@ -29,10 +33,6 @@ Additional Clauses (Optional/Modular):
 
 Patent Grant – Users receive an implicit license to any patents held by the author.
 
-IMPORTANT
-
- *This is an remaked version of dragonlabs i just remaked it*
-
-Trademark Protection – "DragonLabs" and related marks may not be used without permission.
+Trademark Protection – "PhoenixDevZ" and related marks may not be used without permission.
 
 Ethical Use – The Software may not be used for illegal, harmful, or unethical purposes.
