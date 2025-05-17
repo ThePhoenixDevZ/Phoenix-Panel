@@ -7,20 +7,22 @@
 1. Clone the repository or download:
 `git clone https://github.com/ThePhoenixDevZ/PhoenixPanel`
 
-` curl -sL https://deb.nodesource.com/setup_23.x | sudo bash - `
+Paste This Command #1
+2. ` curl -sL https://deb.nodesource.com/setup_23.x | sudo bash - `
 
-`apt-get install nodejs git`
+After Pasting Paste This Command #2
+3. `apt-get install nodejs git`
 
-3. go to panel directory:
+4. go to panel directory:
 `cd panel`
 
-4. Install some importent:
+5. Install some importent:
 `apt install zip -y && unzip panel.zip && cd panel`
 
-5. Install dependencies:
+6. Install dependencies:
 `npm install && npm run seed && npm run createUser`
 
-6. Start the Panel:
+7. Start the Panel:
 `node . # or use pm2 to keep it online`
 
 ## Contributing
