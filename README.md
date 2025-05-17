@@ -29,7 +29,7 @@ After Pasting Paste This Command #2
 Contributions to enhance the functionality or performance of the DracoPanel are encouraged. Please submit pull requests for any enhancements.
 
 ## License
-(c) 2025 ThePhoenixDevZ . This software is licensed under the MIT License.
+(c) 2025 ThePhoenixDevZ . This Remaked software Version is licensed under the MIT License.
 
 
 
