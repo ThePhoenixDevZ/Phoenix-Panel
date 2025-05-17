@@ -1,10 +1,11 @@
 
-<h1 align="center">Draco Panel</h1>
+<h1 align="center">Phoenix Panel</h1>
+
 ## Overview
 
 ## Installation
 1. Clone the repository or download:
-`git clone https://github.com/dragonlabsdev/v2panel`
+`git clone https://github.com/ThePhoenixDevZ/PhoenixPanel`
 
 ` curl -sL https://deb.nodesource.com/setup_23.x | sudo bash - `
 
@@ -26,9 +27,19 @@
 Contributions to enhance the functionality or performance of the DracoPanel are encouraged. Please submit pull requests for any enhancements.
 
 ## License
-(c) 2025 Hopingboyz . This software is licensed under the MIT License.
+(c) 2025 ThePhoenixDevZ . This software is licensed under the MIT License.
 
 
 
 
-- made by hopingboyz
+- Remaked By ThePhoenixDevZ or Solozip
+
+First i will tell you this is an remaked version soon i will add something new features on it and this is actually madded by DragonLabsDev (https://github.com/dragonlabsdev)
+
+## Credits
+SRYDEN
+Skyport
+Hydra-Labes
+Dragon-Labsdev
+
+- Thanks ma4z,ether,achul123,privt,hopingboyz
